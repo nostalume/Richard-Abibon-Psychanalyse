@@ -20,11 +20,11 @@ C’est en partant de cette question que j’ai construit un autre algorithme de
 
 On peut se référer à l’étude la structure du nœud borroméen, sur mon site :
 
-http://pagesperso-orange.fr/topologie/theorie%20du%20noeud%20borrom%E9en.htm
+<http://pagesperso-orange.fr/topologie/theorie%20du%20noeud%20borrom%E9en.htm>
 
 mais surtout à ce texte :
 
-http://pagesperso-orange.fr/topologie/la%20douleur%20borrom%E9en.htm
+<http://pagesperso-orange.fr/topologie/la%20douleur%20borrom%E9en.htm>
 
 dans lequel je déplie pas à pas cette théorie à partir d’un fragment de ma pratique analytique. On en retrouve l’écriture en fonction des 4 discours de Lacan ; le passage de la lettre de gauche à la lettre de droite, comme dans une lecture, se fait en retournant le rond qui est en bas à gauche : on le fait passer en haut à droite, ce qui coupe la zone considérée en deux. Puis toujours comme dans une lecture, on passe de la lettre de droite à la lettre en dessous à gauche en retournant le rond de gauche pour le faire passer à droite. Chaque retournement laisse en place la surface jaune. Conçue au départ comme « insue », contradictoire : une formation de l’inconscient. Chaque retournement est donc une parole qui analyse cette formation de l’inconscient, induisant une coupure (pointillé bleu) dans la surface d’empan, séparant le signifié de ce qui vient d’être traduit de l’inconscient (vert) et la signification qui reste en souffrance (rouge). Ceci n’a rien de naturel, c’est un algorithme que j’ai conçu de façon à ce qu’il fonctionne et que sa logique reflète la logique de la psychanalyse.
 

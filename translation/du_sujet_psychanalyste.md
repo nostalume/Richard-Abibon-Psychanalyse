@@ -252,7 +252,7 @@ o-o qui est (+1 à -1) Ro+
 o-o qui est (–1 à +1) Rs-
 
 $$
-\text { o - o   qui   est } (+ 1 \rightarrow + 1) \quad r +
+\text { o - o qui est } (+ 1 \rightarrow + 1) \quad r +
 $$
 
 u-u qui est (+1 à -1 ) Ro-

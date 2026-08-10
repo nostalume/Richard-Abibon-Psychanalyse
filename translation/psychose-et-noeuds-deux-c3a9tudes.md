@@ -62,7 +62,7 @@ Mais Joyce ne l’emploie qu’à titre d’une métaphore de la colère qui tom
 
 Par contre, voici une histoire dans laquelle le détachement de l’image du corps n’est pas présenté comme une métaphore, mais comme un fait réel.
 
-## Estelle et son double.
+## Estelle et son double
 
 Une dame vient me voir, envoyée par un collègue psychiatre. Elle est désolée parce qu’une autre femme vit à la maison, chez elle. Cette intruse fait tout dans la maison, la cuisine, la vaisselle, les courses, le ménage… elle-même ne fait rien. Vous vous rendez compte me dit-elle, scandalisée, l’autre jour elle a même inscrit mon fils à la bibliothèque ! Elle ne sait pas trop si cette dame est une sœur, ou sa maman, ou encore quelqu'un d’autre…
 
@@ -171,11 +171,11 @@ Mais c’est l’un des avantages de la topologie : elle pose des questions inat
 
 Reste donc pas mal de travail à faire dans un rapport à la pratique.
 
-# LE TRANSFERT DANS LA PSYCHOSE
+## LE TRANSFERT DANS LA PSYCHOSE
 
-## Pas d’autre transfert que le transfert de l’analyste
+### Pas d’autre transfert que le transfert de l’analyste
 
-## P23
+### P23
 
 P. Fédida, préface à « L'effort pour rendre l'autre fou »de R.. Searles.
 
@@ -247,7 +247,7 @@ Topologiquement, dans mon rêve il y a quand même la tentative de faire un trou
 
 Evidemment si ce rêve représente ce qu’il est pour moi, un réel, alors il est du côté de l’objet a, cause de mon désir, mon désir de trouver une issue pour lui, une issue à cette répétition infernale. Je ne saurai dire, si, à l’inverse, je représente aussi pour lui un réel, un objet a cause de son désir : il ne me l’a pas dit, je constate seulement qu’il n’a jamais loupé une séance. Je ne vais donc pas spéculer là-dessus.
 
-## Estelle, Joyce et Abibon : Les présomptions de l’ego de l’analyste
+### Estelle, Joyce et Abibon : Les présomptions de l’ego de l’analyste
 
 A l’inverse la dame africaine, que j’ai appelée Estelle, cette dame, je ne suis pas pour elle un réel, je suis un idéal. Je ne peux parler à personne, il n’y a que vous qui me comprenez, il faut m’aider, M. Abibon<sup>5[5]</sup>. Cet idéal a pris nom maman à un moment de la cure, sans qu’il y ait vraiment confusion. Pour moi elle est devenue, par ricochet (ou devraisje dire « en miroir » ?) quelqu'un de très important. Autant l’autre me confine à l’impuissance, autant celle-ci me donne l’impression d’être utile à quelque chose. J’ai raconté comment elle a pu réintégrer son image du corps, qui c’est avérée porteuse d’un message incestueux, sous la forme d’un démon. Elle l’a précisé dans les séances qui ont suivi l’étude topologique que j’en faisais : mon père et mon frère ont couché avec moi depuis que j’ai 4 ans. Sa détresse était telle qu’à sa demande d’aide, de faire partir ce démon, je n’ai pu que répondre : acceptez que ce démon ne soit que le souvenir de ce qui vous est arrivé. Elle a répondu « j’accepte », et l’instant, d’après elle disait : ça y est, ils partent.
 
@@ -293,7 +293,7 @@ Et moi, oui, je la mets en place d’objet a, au sens où lorsque mon ego est fl
 
 Bien que mon message soit un peu long, je me rends compte que tout ça est encore dit bien trop rapidement. Tout ça n’est que tâtonnements que je soumets à votre appréciation.
 
-## Omar, Estelle, Joyce, et Abibon
+### Omar, Estelle, Joyce, et Abibon
 
 Quant à Omar, à ma grande surprise, il m’a donné aussi le sentiment d’être quelqu'un. C’est au sortir d’une de nos séances, dans laquelle il avait parlé de son père mort, que les voix se sont tues pour se mettre à chuchoter. Bon, 15 jours plus tard elles revenaient. Mais cet épisode m’avait rendu actif en me montrant que les voix pouvaient se taire. Que j’étais quelqu'un qui pouvait faire taire les voix (présomptueux, va !). Je lui ai donc demandé précisément quand elles étaient réapparues. En descendant les poubelles. Et quel sentiment vous aviez à ce moment-là ? Vous pensez, me dit-il, que je me suis senti humilié d’avoir à descendre les poubelles, et que c’est pour ça ? C’est vrai, ajoute-t-il, que ça m’a fait penser à mon ancien boulot, qui était de ramasser les poubelles, en effet, derrière le camion municipal. Je n’avais jamais osé dire à ma belle famille la nature de mon métier.
 
@@ -315,7 +315,7 @@ Pour l’instant voyez, je ne sais pas faire plus que de superposer deux types d
 
 Qu’en pensez-vous ?
 
-## Le forclusif et le discordantiel.
+### Le forclusif et le discordantiel
 
 Ce que j‘en pense personnellement, c’est que je viens de tenir là un discours discordentiel, ce qui n’est pas sans rapport avec la psychose. Lacan a en effet posé la psychose comme l’effet de ce qu’il appelé la forclusion du Nom du Père. Ce terme de forclusion, il l’a emprunté à la célèbre grammaire de Damourette et Pichon, qui à ma connaissance furent les premiers à relever cette différence en français entre deux niveaux de négation, le forclusif et le discordantiel.
 
@@ -329,7 +329,7 @@ Selon ce que j’ai cru comprendre de Lacan, la forclusion serait l’élision d
 
 Enfin, le Nom du Père devient une pure fonction, la fonction de la parole. Cette dernière conception est très proche de la précédente, celle du signifiant, car le signifiant est la parole en acte, c'est-à-dire telle qu’elle fonctionne. Ce serait l’extension du statut forclusif de la négation à toute négation.
 
-## Lacan et ses différentes écritures de la psychose dans « le Sinthome »
+### Lacan et ses différentes écritures de la psychose dans « le Sinthome »
 
 1)Lacan posait le trèfle comme écriture de la paranoïa. En effet c’est ce que Lacan dit dans « Le Sinthome », le 16 décembre 75 :
 
@@ -369,7 +369,7 @@ Par contre le ratage du nœud borroméen donne un enlacement : à question il y 
 
 Voilà ce que je peux dire pour l’instant, et il va de soi qu’il faut poursuivre l’étude, ce que je ne manquerai pas de faire en rapport avec la pratique, sans quoi ça n’aurait pas de sens ;
 
-## Psychose et nœuds, notules et réflexions en vrac.
+### Psychose et nœuds, notules et réflexions en vrac
 
 Comme on le voit, Lacan ne s’embarrasse pas de constance dans l’écriture de la psychose. Une constante cependant, à travers toutes ces variations : le ratage du nœud, le lapsus. Ça vaut donc le coup de s’interroger sur ce qu’est un croisement. Mais à part insister sur cette identité avec le lapsus, Lacan ne nous en dit pas grand-chose.
 

@@ -2,7 +2,7 @@
 
 Je réponds à Serafino Malaguarenra :
 
-https://www.youtube.com/watch?v=e54LSmlHiZY&feature=share
+<https://www.youtube.com/watch?v=e54LSmlHiZY&feature=share>
 
 qui développe le point de vue lacanien classique sur la bande de Mœbius.
 
@@ -20,7 +20,7 @@ Pour ce qui est de la bande de Moebius, même suivisme de Lacan. il parle de "LA
 
 Oui c'est une bande bilatère, car elle a deux faces. Non car les 4 torsions de cette bande sont toutes de même sens comme dans la bande de Moebius homogène (celle dite "à trois torsions" par Lacan). la bande qu'il a réalisée au départ sans LA torsion, est un cylindre. la bande obtenue par une coupure médiane n'est pas un cylindre. La première définit, il est vrai, un intérieur et un extérieur. la seconde , si elle définit bien une face et une autre face distincte, ne permet pas de définir un intérieur et un extérieur, car la même face se retrouve deux fois à l'extérieur, deux fois à l'intérieur, de même pour l'autre face . Ça, c'est la confusion entre la dimension "intérieur-extérieur" avec la dimension "une face- l'autre face".
 
-## Ça a des conséquences.
+## Ça a des conséquences
 
 Par exemple sur la castration. L’humain est divisé en deux sexes, mais l'enfant croit qu'il n'y en a qu'un. C'est une bande de Moebius : une seule face, même si, localement, il va repérer qu'il y a quand même quelques différences entre papa et maman, différences dues essentiellement à la jalousie. Et puis, s'apercevant de la différence des sexes qu'il imagine aussitôt comme castration, cela produit bien une coupure médiane, mais sans qu'il soit possible de déterminer un intérieur et un extérieur, genre : moi je suis garçon, c'est mon intérieur et à l'extérieur ce sont les filles (ou l'inverse). car dans mon intérieur restent des caréctéristiques de la bande de Moebius (toutes les torsions de même sens) c'est-à-dire des caractéristiques de l'autre sexe pensées comme menace de castration. Pour l'autre sexe , ce sera le rejet du masculin , mais en conservant l'envie du phallus.
 
@@ -54,7 +54,7 @@ Ensuite, je vais dans un autre registre, le registre où les développements de 
 
 ## Cordialement, Serafino Malaguarnera
 
-## Merci aussi pour cette réponse.
+## Merci aussi pour cette réponse
 
 J’ai beau vous relire, je ne vois pas de deuxième temps dans votre élaboration.
 

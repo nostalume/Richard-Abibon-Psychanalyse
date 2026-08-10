@@ -4,7 +4,7 @@ Richard Abibon
 
 De cet article :
 
-https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.apsychanalyse.org%2Fpost% 2Fjoseph-rouzel-la-psychanalyse-est-une-pratique-de-
+<https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.apsychanalyse.org%2Fpost%>g>%2Fpost% 2Fjoseph-rouzel-la-psychanalyse-est-une-pratique-de-
 
 bavardage%3Ffbclid%3DIwAR0PwkZuhLKD4TbOArFqjdiLWQEPukdp1CmQBBqy3VJqw MBEA\_nWzj0LGio&h=AT2ozb017oTp2hxWljbyM7xuz6gAcVvxbUI8KqyZbVOGwYkpe VT\_DQFEt6-
 
@@ -12,7 +12,7 @@ j3OFmwBXE3tjxRQ2SNSVNVkGocWldwsotgSxyKhx82SXXOinJS0LeJQndNiv3p6u0D853Q1N7qC0&\_\
 
 R&c[0]=AT02mRrEOV\_QFNorTZZ56iurJJh9ReuHPliv0EmJ1hDQNtTYH2wDdmmEJ5V8 wcTXvgj2obs4yve2TKpZXb1BIT8Se7urMT9o0Y\_VUunkGAMK\_lQ\_KpweXrX9A0A9OM a8Lnhvtxh\_ME-p05tQBZK4J8xpEaU
 
-## Je reprends ceci :
+## Je reprends ceci
 
 « Dans la séance du 15 décembre 1965 de son séminaire inédit L’objet de la psychanalyse, Lacan nous en livre le mode d’emploi. « La bande de Möbius c’est une surface telle que la coupure qui est tracée en son milieu soit elle-même une bande de Möbius. La bande de Möbius dans son essence c’est la coupure même. Voilà en quoi la bande de Möbius peut être pour nous le support structural de la constitution du sujet comme divisible.» »
 
@@ -68,21 +68,21 @@ Dominique Bertin Mais il faut faire de l'optique pour comprendre le stade du mir
 
 Sur la différence topologique des trois points de vue du miroir, lire (ci-dessus je n’ai parlé que de deux, pour simplifier) :
 
-https://unepsychanalyse.files.wordpress.com/2019/06/3\_torsions\_demonstration\_10.p df
+<https://unepsychanalyse.files.wordpress.com/2019/06/3>\_torsions\_demonstration\_10.p df
 
 Habituellement, tout le monde confond, et Lacan au premier chef. De même il faut examiner de près l'objet bande de Moebius dans son aspect physique si on veut comprendre comment on peut s’en servir d’illustration de l'inconscient. Et donc, sur le plan physique et mathématique, les affirmations de Lacan à ce sujet sont fausses. Pourtant, il s'appuie dessus avec aplomb. Si on veut parler de l’inconscient en se servant de la bande de Moebius, ou du miroir, comme illustration, alors il faut savoir ce que signifient précisément ces deux objets, sinon ce n’est pas la peine : autant ne pas s'en servir et chercher d'autres métaphores.
 
 Outre la démonstration de Wikipedia proposée par Nathalie Cappe, je tiens à votre disposition les nombreuses démonstrations que j'ai réalisées sur le miroir et sur la bande de Moebiu, notamment sur le rapport entre les deux. Voyez les vidéos dont je donne les références ci-dessous :
 
-https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv %3DzkxK1RHLLPw%26t%3D9s%26fbclid%3DIwAR2SWnmfP4w53SgWqcCBQBstDRIn TQPk98iywBke7uhaWxVnlv02Oajtd0c&h=AT0EDX1bAgENUKNOO0kx04vIoFSkMBAo Uijt3x5z0dKzDquF5U04WgVMJUkdJb9kfMYFgOGWqgP4gKG96mRoGjwNF1- guKJx21FaodXjVig6NNJ7AbxyTp0Fph1XgRlYQ5XYbVw&\_\_tn\_\_=R]-
+<https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv>Fwatch%3Fv %3DzkxK1RHLLPw%26t%3D9s%26fbclid%3DIwAR2SWnmfP4w53SgWqcCBQBstDRIn TQPk98iywBke7uhaWxVnlv02Oajtd0c&h=AT0EDX1bAgENUKNOO0kx04vIoFSkMBAo Uijt3x5z0dKzDquF5U04WgVMJUkdJb9kfMYFgOGWqgP4gKG96mRoGjwNF1- guKJx21FaodXjVig6NNJ7AbxyTp0Fph1XgRlYQ5XYbVw&\_\_tn\_\_=R]-
 
 R&c[0]=AT2joOiXs52et0jqXXol\_SjR2puWvllBOOYuyPAI0x\_ZBFZUvPi5V9x4o62gz8fVv oOXP8GMo-
 
 KYkGq1XaXGIY7nCRyxW57eRwqpIsNio415wuyJvD2bw8M2cTIuowdrTlTntCQ8EeLiij5I UOHMW4Ml6IM
 
-https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv %3DuOyrFU3Y54o%26t%3D1121s%26fbclid%3DIwAR0zvEoij-drFx-TQHfobb9e7eB8Ak8gxfSQK4SmV2iHAi7iO3lumiFB8A0&h=AT3WFqfdclEPjgA3feji5q0 M6Tm-shY4-LqwqiIbqJwRHlABoBBYhnEr0OCsTNB6Bpk2AEvyN2aK5Sb3T7\_\_lmDu-WHbK41ck0LkOP23vwXVPVH-5bEOvpO0ebMnLtDXbJtm\_G8&\_\_tn\_\_=R]- R&c[0]=AT2joOiXs52et0jqXXol\_SjR2puWvllBOOYuyPAI0x\_ZBFZUvPi5V9x4o62gz8fVv oOXP8GMo-KYkGq1XaXGIY7nCRyxW57eRwqpIsNio415wuyJvD2bw8M2cTIuowdrTlTntCQ8EeLiij5I UOHMW4Ml6IM
+<https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv>Fwatch%3Fv %3DuOyrFU3Y54o%26t%3D1121s%26fbclid%3DIwAR0zvEoij-drFx-TQHfobb9e7eB8Ak8gxfSQK4SmV2iHAi7iO3lumiFB8A0&h=AT3WFqfdclEPjgA3feji5q0 M6Tm-shY4-LqwqiIbqJwRHlABoBBYhnEr0OCsTNB6Bpk2AEvyN2aK5Sb3T7\_\_lmDu-WHbK41ck0LkOP23vwXVPVH-5bEOvpO0ebMnLtDXbJtm\_G8&\_\_tn\_\_=R]- R&c[0]=AT2joOiXs52et0jqXXol\_SjR2puWvllBOOYuyPAI0x\_ZBFZUvPi5V9x4o62gz8fVv oOXP8GMo-KYkGq1XaXGIY7nCRyxW57eRwqpIsNio415wuyJvD2bw8M2cTIuowdrTlTntCQ8EeLiij5I UOHMW4Ml6IM
 
-https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv %3DvdBKxMpTL4M%26t%3D142s%26fbclid%3DIwAR2hnks0RcGvRUXeLwXsXlkcIC\_ 9xJEMH21RELyS8zkbhVqDzLblO-
+<https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv>Fwatch%3Fv %3DvdBKxMpTL4M%26t%3D142s%26fbclid%3DIwAR2hnks0RcGvRUXeLwXsXlkcIC\_ 9xJEMH21RELyS8zkbhVqDzLblO-
 
 z9Y58&h=AT0QkCJNS6XJc0GiMwGfoKDc7BWhJ2LZCK9B8D7D2fDpDjhANuoWQPlte oKREdhzKpWmo\_60vMsJFGIaSdpRywJ2m\_PJF5cx-W-q1a5Ur7SaECAj8-
 
@@ -145,6 +145,6 @@ Pour finir, je vous invite à constater ceci : si on considère la bande de Moeb
 
 Mon article « Vulve baladeuse » est un bon exemple de la façon de traiter la de la question dans la pratique de la psychanalyse.
 
-https://unepsychanalyse.files.wordpress.com/2021/12/vulve\_baladeuse-1.pdf
+<https://unepsychanalyse.files.wordpress.com/2021/12/vulve>\_baladeuse-1.pdf
 
 Mercredi 22 décembre 2021

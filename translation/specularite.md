@@ -1,6 +1,6 @@
 # RICHARD ABIBON
 
-# SPÉCULARITÉ 1
+## SPÉCULARITÉ 1
 
 « Le langage est, pour celui qui sait en déchiffrer les images,
 
@@ -8,7 +8,7 @@ un merveilleux miroir des profondeurs de l’inconscient »
 
 Damourette et Pichon
 
-## 1) Négation forclusive et négation discordentielle
+### 1) Négation forclusive et négation discordentielle
 
 On doit cette distinction à Damourette et Pichon, dans leur « Essai de Grammaire de la langue française ».
 
@@ -28,7 +28,7 @@ La forclusive par la rondelle bilatère : il y a deux faces, et elles ne peuvent
 
 ![](images/0d219e391018968631bdc3100cc439ee3f03f95a41e45c4ef6b1b1636d34fb1c.jpg)
 
-## NOTE DU 12/11/13
+### NOTE DU 12/11/13
 
 Cette façon de représenter le cross cap et sa découpe m’apparaît aujourd’hui fautive. La bande de Moebius que l’on croit lire en pointillé sur la figure censée représenter le cross cap n’est pas à la bonne place, même si elle donne l’impression de pouvoir en être extraite facilement comme représentée. En effet, la « torsion » de la bande de Moebius , si elle se situe quelque part c’est dans la ligne de croisement des surfaces dite « ligne de décussation » pour faire savant, que l’on peut lire dans le tortillon qui sinue sur le dessin de gauche. La « torsion » qui est représentée dans ce même dessin comme étant celle de la bande de Moebius extraite ensuite n’est qu’un artéfact du à l’aplatissement en 2 dimensions d’un objet censée être en trois dimensions. On aurait la même torsion sur un cylindre ou une sphère, ce que je prends en effet en considération, au contraire de mes collègues topologues qui déclarent ces deux derniers sans torsions. Or, il y a bien une torsion dans ces cas-là, au sens où, du point de vue d’un lecteur (et il n’y a pas d’objet sans lecteur pour le lire), on passeBande de Moebius bien d’une face à l’autre. Le comble du paradoxe, c’est que lorsque je dis que la bande de<sup>initiale=</sup> <sup>ligne</sup> <sup>sans</sup> Moebius a trois torsions, on me rétorque que les deux « supplémentaires » sont des artéfacts dus au dessin… or c’est justement un tel artefact, absolument identique, qui est ici présenté comme étant « la » torsion unique de la bande de Moebius.
 
@@ -40,7 +40,7 @@ Deux « torsions » qui sont les lieux où, pour nous lecteur, la surface passe 
 
 Il se trouve que ce qui nous intéresse en psychanalyse, c’est justement ce qui s’écrit et le fait qu’il faut un sujet à la fois pour l’écrire et pour le lire. Bref le cross cap, dans notre champ, reste une figure qui nous fait plus embrouiller les problèmes que les résoudre. La bande de Moebius est déjà suffisamment compliquée comme cela. La décrire correctement, voilà qui nous apporte quelques lumières sur la structure de l’inconscient : étant à une face et pourtant à deux faces, elle soutient en effet la contradiction, caractéristique essentielle de l’inconscient.
 
-## 2) Spécularité : en rapport avec le miroir ? Cross-cap, bande de Moebius : spéculaire ou pas ?
+### 2) Spécularité : en rapport avec le miroir ? Cross-cap, bande de Moebius : spéculaire ou pas ?
 
 Je me réfère essentiellement aux séances du 6 et 13 juin 62 de « l’Identification ». Nous allons examiner les problèmes posés par les définitions que Lacan donne de la spécularité.
 
@@ -64,7 +64,7 @@ Cependant si, reprenant le Lacan du schéma optique, nous faisons basculer le mi
 
 Cependant encore, l’année suivante, dans « L’Angoisse », (9/1/63, p.95<sup>2</sup>), Lacan définit le spéculaire en se servant du retournement de la bande de Mœbius. Effectivement, quel que soit le mode de retournement, l’objet obtenu est superposable à l’objet initial : il tourne dans le même sens. Du point de vue de cette définition, qui est la même que celle de « l’Identification » (superposabilité), il n’y a plus, cette fois, nécessité du miroir. Par rapport à la spécularité, Lacan confond ici deux opérations : l’une des opérations effectuée par le miroir (car il y en a au moins trois<sup>3</sup>) et le retournement proprement dit (extrinsèque, car il y en a un autre<sup>4</sup>, dit retournement intrinsèque), qui peut parfaitement se passer du miroir.
 
-## 3)La rondelle : spéculaire ou pas ?
+### 3)La rondelle : spéculaire ou pas ?
 
 Il nous indique, en effet, que la rondelle issue de la coupure à deux tours du cross cap est orientée, et il nous montre en quoi elle n’est pas spéculaire. Au début de la séance du 13 juin 62, il dessine la rondelle dans le miroir : bien entendu, comme elle est orientée (son bord en huit intérieur présente une dissymétrie), son image ne se superpose pas à l’objet :
 
@@ -82,7 +82,7 @@ Du point de vue de l’image du corps, nous pouvons poser la même question : au
 
 Je pourrais poursuivre le raisonnement en effectuant une identification à l’image, par un retournement derrière le miroir : je découvre alors une autre différence dans l’inversion de la droite et de la gauche. Donc mon image qui est pourtant moi-même (identité) est différente par l’inversion de deux dimensions sur trois (différence).
 
-## 4) pour une topologie discordentielle
+### 4) pour une topologie discordentielle
 
 C’est ici qu’intervient la négation discordentielle, fondamentale pour la structure de la parole. Mon image était la même, mais par une opération de coupure, due au souvenir de ce qu’avait pu être mon image renversée dans un autre miroir, je l’ai rendue différente pour la dimension traversant le miroir ; puis j’ai accentué cette différence par une coupure supplémentaire entre ce que j’étais devant le miroir et ce que je deviens en m’identifiant à l’image par retournement derrière le miroir. A l’inverse, l’image du cross cap, qui était différente de l’objet, Lacan, par une opération de suture, en rétablit la similitude. Dans les deux cas, il ne s’agit pas de trancher définitivement, afin d’établir de façon objective (scientifique) si les deux objets sont semblables ou différents. Il faut bien admettre qu’ils sont à la fois semblables et différents : c’est cela qui constitue la spécularité, dans son rapport à la négation discordentielle. L’image n’est pas l’objet, ce n’est que son image.
 
@@ -90,7 +90,7 @@ Par ailleurs, si, du point de vue de la spécularité, le cross cap et la rondel
 
 C’est en cela que l’opération du miroir ne peut être conçue comme différente de la structure du langage, qui noue le Réel, le Symbolique, et l’Imaginaire, dans une temporalité. En effet, l’opération qui rend semblable (suture), comme celle qui rend différent (coupure), supposent la comparaison de l’objet initial avec l’objet obtenu, moyennant d’éventuelles étapes. Ceci fait intervenir le temps et le souvenir, donc la trace de ce que l’objet était, avec ce que, par les différentes opérations, il devient. Wo es war, soll Ich werden. Tout cela suppose la manipulation par un sujet, qui, de ce fait, s’identifie, non plus à l’un des objets en jeu, mais au « je » qui tranche –et ne tranche pas – entre eux.
 
-## 5) la distinction orientable-orienté règle le sort de la spécularité de la rondelle.
+### 5) la distinction orientable-orienté règle le sort de la spécularité de la rondelle
 
 Nous arrivons à la nécessité d’une autre précision dans les définitions : Lacan, et, à sa suite, Vappereau, considére qu’une surface bilatère est orientable, donc orientée. Or, il est fondamental de distinguer entre l’orientable (toute surface bilatère) et l’orienté : pour orienter un bilatère il est nécessaire de faire appel à l’écriture, c'est à dire de marquer une des faces (un seul trait suffit) afin de la repérer. La bilatéralité se repère avec un cardinal : il y a 2 faces. Il est possible de les orienter mais ce n’est pas nécessaire. Un objet unilatère tel la bande de Moebius, il est impossible de l’orienter. L’orientation suppose l’intervention contingente d’un ordinal : voici la première face, voilà la seconde. La lettre, comme simple trait peut s’y substituer (voici celle qui est marquée, voilà celle qui ne l’est pas : négation forclusive). Sans cette écriture, le bilatère se présente à la fois comme bilatère (il a bien deux faces) et comme unilatère (elles sont bien séparées par un bord, mais comme elles sont semblables, rien ne permet de les caractériser) : négation discordentielle. Dans ce raisonnement nous sommes passés d’un jugement portant sur l’objet comme tel (bilatère ou unilatère), à la nomination des parties de l’objet (cette face-ci, cette face-là), ce qui porte un jugement supplémentaire (orientation, soit : mise en ordre des faces par une lettre faisant ordinal).
 
@@ -104,7 +104,7 @@ Note du 12/11/13 : j’essayais encore à cette époque de valider quand même q
 
 Chapitre 2 : 6) le cross cap, surface, place du trou, ou surface trou ? Parallèle entre la construction du cross cap et le schéma optique.
 
-## Spécularité 2
+### Spécularité 2
 
 Lorsqu’il passe de la topologie à la psychanalyse, Lacan ne clarifie guère la situation. Il qualifie à plusieurs reprises le - ϕ d’opérateur. Il finit par le situer dans le petit trou qui fait la base de la ligne d’auto-pénétration de la surface du cross-cap. Ce petit trou se trouve entraîné au centre de la rondelle (qualifiée d’objet a) lorsque celle-ci est séparée de la bande de Mœbius par une coupure (à un ou à deux tours). Or, cette coupure, c’est ça, l’opérateur. En tout cas, ces coupures sont les seules opérations dont il est question. La question est complexe, et Lacan en convient explicitement. Comment l’opérateur peut-il se retrouver dans l’objet a, produit de l’opération ? Est-ce à dire que l’opération ne cesse pas d’être à refaire, et que, en tant que division, elle ne cesse pas de ne pas tomber juste ?
 
@@ -116,7 +116,7 @@ A s’en tenir aux formulations de « l’Identification » et de « L’Angoiss
 
 Pour s’y retrouver, il est intéressant de faire un parallèle entre la construction du schéma optique des « Ecrits » (Remarque sur le rapport de Daniel Lagache) et celle du crosscap à partir du polygone fondamental. Entre les deux, un petit essai esthétique ne fera pas de mal.
 
-## 1) Construction topologique
+### 1) Construction topologique
 
 Les trois dimensions sont annulées successivement, moyennant deux scansions suspensives :
 
@@ -124,13 +124,13 @@ Les trois dimensions sont annulées successivement, moyennant deux scansions sus
 
 ![](images/535877fc0107d3e012090b7e95e5d2bb5e0d77300538c66a98f7c72ba12386a8.jpg)
 
-## - Scansion
+### - Scansion
 
 2) On annule la dimension y, en raboutant deux bords du polygone fondamental, moyennant une torsion. Cette torsion crée la troisième dimension, z, qui n’était pas là dans le plan du polygone fondamental, produit des deux seules dimensions x et y. Mais elle la crée comme trou, c'est à dire comme zéro quant à une mesure quelconque : y - y ${ \bf \mu } = 0 = { \bf \mu } _ { Z }$ . Cette opération aboutit à la formation de la bande de Mœbius ; surface qu’on ne peut considérer comme telle qu’à condition de préciser : n’ayant qu’un bord, elle n’a aussi qu’une face, et par là, elle est identique à la coupure. C’est très différent de ce que nous appelons intuitivement et généralement « surface », objet doté éventuellement d’un seul bord, mais structuré en tous les cas par deux faces.
 
 ![](images/4ef165b396b8e2a1c26edb18102575dd0abd89e3d742390746ed50e85759c48a.jpg)
 
-## Note du 12/11/13
+### Note du 12/11/13
 
 Représentation fautive de la bande de Moebius, car il manque deux torsions.
 
@@ -140,7 +140,7 @@ Représentation fautive de la bande de Moebius, car il manque deux torsions.
 
 ![](images/40799dd4c92f986c16e49f7e5e89260b91759ecee7b5c449eca659d42be2733d.jpg)
 
-## 4) Construction esthétique
+### 4) Construction esthétique
 
 Partons à présent d’un polygone fondamental qui serait un tableau, comme celui de Van Eyck, « Portrait des époux Arnolfini ». Comme dans tout tableau « réaliste », la troisième dimension, z, absente du tableau, y est représentée par l’illusion de la perspective, qui consiste en ceci : les deux dimensions du plan de la réalité, x et y, sont représentées par les deux dimensions du plan du tableau ; la troisième dimension, « devant-derrière », ou z, est représentée par la dimension « haut-bas », ou y, du tableau. Cette dernière, y, représente donc à la fois elle-même et z. En fonction d’une diminution de z, qui tend vers zéro au dit « point de fuite », les deux autres dimensions du plan, x et y, suivent le mouvement et tendent, elles aussi, vers zéro au point de fuite. Ce dernier peut donc être considéré comme la place du trou, qui oriente le tableau dans l’espace de la représentation. Le tableau, sans perspective, est une rondelle sans orientation, aspéculaire. Muni du point de fuite, il se retrouve orienté, et spécularisable : on peut croire à cette réalité fictive tout en reconnaissant sa fallace.
 
@@ -150,7 +150,7 @@ Ainsi la traversée du tableau (via la place du trou), comme la traversée du fa
 
 ![](images/0b44712d2d2913db47b75a5a522c0f25c575f77dd1994af481e83a8e621c170b.jpg)
 
-## 3)Construction optique
+### 3)Construction optique
 
 Reprenons à présent le schéma optique de Lacan<sup>5</sup>. Il peut se commenter en trois temps et deux scansions, comme la construction du cross-cap. Pour cela, il faut se situer dans l’après-coup du basculement du miroir ; rappelons que ce dernier s’accompagne, dans la monstration de Lacan, d’un autre mouvement, celui du sujet qui se déplace en I(A), là où il voyait son image auparavant.
 
@@ -158,7 +158,7 @@ Le dessin de la page 680 des Ecrits laisse planer une ambiguïté, puisqu’il r
 
 1) De l’inversion (Verkehrung ins Gegenteil<sup>7</sup>): si, dans le premier temps, l’image était apparue en tout point identique à l’objet, cette illusion se dissipe par l’inversion évidente du miroir horizontal. Le miroir inverse donc la dimension qui le traverse, haut-bas à présent, (coupé de) devant-derrière précédemment. La fonction du miroir s’avère identique à cette inversion ; je m’identifie imaginairement à cette dimension qui peut s’inverser ou pas (identification z – z = 0 ou y – y = 0). Je me considère donc comme étant à une seule dimension, celle-ci qui s’inverse, trouant le miroir. Ce trou est imaginaire (occupé par une image à deux faces : S<sub>2</sub>) et je l’observe depuis le vide d’une place symbolique (S ). La dimension impossible à inverser, z au 2<sup>ème</sup> temps, y au 1<sup>er</sup>, s’avère un trou réel dans l’image : identique à ellemême, elle répond à la définition de l’aspéculaire. Ce trou correspond à celui du vase où viennent se loger les objets a. La dimension y reste passive par rapport à l’action de l’Autre, le miroir, par opposition à l’activité, identique à la dimension z, que j’ai mise en œuvre pour changer de position. C’est la définition du 1<sup>er</sup> destin de la pulsion.
 
-# ↑
+## ↑
 
 2) Du retournement (Wendung gegen die eigene Person): ici, il faut faire intervenir l’image du corps, et non un vase. Ce dernier, symétrique autour d’un axe haut-bas, ne nous permet pas de nous repérer plus avant. Le sujet s’est placé en I(A) : devant le miroir à présent <sup>Torsion</sup> <sup>=</sup> <sup>trou</sup> <sup>de</sup> <sup>l’acte</sup> <sup>de</sup> <sup>se</sup> posé à l’horizontale à ses pieds (virtuels !), mais derrière la position précédente du miroir. LaPlan parallèle au <sup>retourner</sup> <sup>:</sup> <sup>x</sup> <sup>–</sup> <sup>x</sup> <sup>=</sup> <sup>0</sup> comparaison de ma présence symbolique (au<sup>miroir</sup> $2 ^ { \mathrm { { e m e } } }$ temps) à cette place où était mon image (au 1<sup>er</sup> temps) permet de juger de ceci : ma main droite symbolique, vient se placer là où était ma<sup>(plan</sup> <sup>objet)</sup> y <sub>y</sub> main gauche imaginaire (identification $x - x = 0 )$ . Je me suis retourné, ce qui a produit, en Plan perpendiculaire au<sup>-</sup> plus de l’inversion de la dimension z, l’inversion de la dimension x. Prenant la place de monmiroir<sup>xi(a)</sup> <sup>i’(a)1</sup> image, au moment même où elle disparaît, j’ai effectué moi-même l’action de l’Autre, le miroir : ce qui est le $2 ^ { \mathrm { { \dot { e } m e } } }$ destin de la pulsion, le retournement sur la personne propre. C’est<sub>Plan</sub> <sub>parallèle</sub> <sub>au</sub> le destin proprement symbolique de la pulsion, la trouure, soit : le travail de la pulsion demiroir mort, se liant le plus souvent, comme l’indique Freud, à l’inversion passif-actif, ainsi qu’il le(plan image) a place du trou théorisera plus tard dans le fort-da.
 
@@ -166,7 +166,7 @@ La rotation par laquelle je suis passé symboliquement derrière le miroir s’e
 
 ![](images/2d0c62486096e5d3a0be20bea584d55c31222c52077bda6b27100fff12e96d31.jpg)
 
-## - Scansion.
+### - Scansion
 
 5) Du renversement (inhaltiche Verkehrung ou Verwandlung des Liebens in ein Hassen<sup>8</sup>): Freud subdivise en deux la Verkehrung : l’inversion de la passivité à l’activité (que nous avons appelée inversion proprement dite), et l’inversion du contenu (que nous appellerons renversement pour plus de clarté, puisque Freud utilise aussi : Verwandlung de l’amour en haine). Une fois comprise la structure du retournement, il devient possible de se rendre compte que celui-ci n’a pas eu lieu dans le $2 ^ { \mathrm { { e m e } } }$ temps, dans le rapport de l’image réelle $i ( a )$ , à l’image virtuelle $i ^ { \prime } ( a ) _ { 2 }$ dans le miroir à présent horizontal. Si je me place symboliquement dans le point de vue où j’étais en $i ( a ) ,$ , la rotation, s’effectue autour de l’axe z, qui était la dimension du trou du miroir vertical. Mais au miroir horizontal, cette dimension du trou, $y , \mathrm { j ^ { \prime } y }$ suis déjà. Contrairement à la situation du miroir vertical, je ne sors pas d’un plan parallèle au miroir pour passer de l’autre côté. Je reste dans ce plan qui est le mien, perpendiculaire au miroir. Il ne s’agit pas de la trouure d’un plan (acte de trouer), mais de l’identification au trou comme tel, en tant qu’ici, il se fait plan : trou réel, rempli des deux faces $\Gamma \mathrm { u n }$ trou imaginaire $( \Phi _ { 0 }$ et $\mathrm { P _ { 0 } }$ dans le schéma I), et non-trou symbolique. Le renversement inverse les deux dimensions d’un même plan. Ce qui correspond bien à la transformation de l’amour en haine : il n’y a pas de changement d’objet (de plan), mais inversion de la valeur de l’objet pour le sujet.
 
@@ -182,7 +182,7 @@ $$
 
 Cette hétérogénéité disparaît si l’on considère l’aspécularité du miroir sphérique qui fournit le socle du montage optique. L’inversion y est homogène selon les trois dimensions. Et là, ça ne parle plus : c’est l’autisme. L’image réelle devient à son tour objet pour le miroir sphérique, qui produit une 2<sup>ème</sup> image réelle, enchasublant en tous points l’objet réel initial, et ainsi de suite en un renvoi infini, au point qu’on ne peut distinguer ni image, ni objet mais un seul continuum. L’aspécularité est totale. Cet espace, où tout point est annulé par lui-même, trouve sa correspondance topologique dans la surface de Boy, qui ainsi s’oppose radicalement au cross-cap. De plus, la surface de Boy ne nécessite pas les deux scansions de la construction du cross-cap : l’annulation des trois dimensions se fait d’un seul coup. Néanmoins, tout en gardant ces caractéristiques fondamentales, des modalités apparaissent dans l’image, en modifiant la distance du sujet au miroir. De dimension nulle lorsque le sujet se place à l’infin (autisme absolu), elle se morcelle en trois à l’approche du centre (schizophrénie), tout en grandissant jusqu’à l’infini (délire des grandeurs), pour disparaître au foyer (fin du monde), avant de réapparaître comme image virtuelle lorsque le sujet est entre le foyer et la surface du miroir. Dans cette zone, elle retrouve alors les conditions du miroir plan<sup>9</sup> . Comme quoi, de la psychose, on en sort. Il suffit de laisser le délire se dérouler dans son approche du miroir sphérique.
 
-## UN ÉCHANGE AVEC CARLOS BERMEJO, DE BARCELONE
+### UN ÉCHANGE AVEC CARLOS BERMEJO, DE BARCELONE
 
 Cher Richard,
 
@@ -194,7 +194,7 @@ La spécularisation, et ses corrélats dans la clinique, c’est un terme compli
 
 A mon avis il faut différencier net le concept dans le narcissisme et dans le fantasme, et puis les articuler. Ça nous permettra différencier la clinique du psychotique du celui du névrosé.
 
-## Eclairements :
+### Eclairements
 
 a) a) Tous les objets ont image dans le miroir (moins les vampires, je plaisante, mais j’ai beaucoup des rêves dans mes analysantes où ils viennent à figurer un tas de choses…en relation au phalus imaginaire et ses positivités)
 
@@ -461,7 +461,7 @@ L’avantage du nœud borroméen pour cette étude c’est qu’il est précis, 
 
 Vous trouverez alors que le nœud de Whitehead et sa réciprocité totale (je préfère dire dualité totale, et je pense que Lacan me l’accorderait) c’est tout à fait accordé avec le fait que l’objet « a » il est la bande Möbius ou la bande bilatére ça dépend ; et on voie ça dans les mouvements du fantasme dans la cure (tantôt le réel qui se représente occupe une place tantôt l’autre place)
 
-## RA ah oui !!! c’est exactement ça ! d’accord !!!
+### RA ah oui !!! c’est exactement ça ! d’accord
 
 Donc, les deux bandes du bouteille de Klein (inconsciente et Ca) ne son pas dans le miroir, sont corrélats pour penser l’espace ou se déplient les opérations de la pulsion et l'inconscient.
 

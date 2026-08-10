@@ -1,8 +1,8 @@
 # 5,&+\$5' \$%,%21 /( <, .,1\*  81( 7232/2\*,( (1 3,(55( "
 
-# (WKLTXH GH O¶LPPRELOLWp HW GX PRXYHPHQW  HW OH GpVLU "
+## (WKLTXH GH O¶LPPRELOLWp HW GX PRXYHPHQW  HW OH GpVLU "
 
-## ,GHQWLWp HW GLIIpUHQFH
+### ,GHQWLWp HW GLIIpUHQFH
 
 Sur la 4<sup>ème</sup> de couverture du livre de François Jullien « Figures de l’Immanence », il est dit : « …car le Yi King prétend nous faire accéder à l’intelligibilité des choses sans avoir recours à la mise en scène d’une histoire ou au développement d’un argument. Autrement dit, sans en appeler au mythe et au discours ».
 
@@ -20,7 +20,7 @@ La fluidité suppose donc de ne pas cesser de faire le tour non seulement des ob
 
 Ces questions sont celles qui intéressent la psychanalyse. Y a-t-il une ou deux pulsions, la sexuelle et celle d’ autoconservation ? une ou deux libidos, celle de l’ objet et celle du moi ? la pulsion de vie n’ est-elle pas l’ autre manifestation de la pulsion de mort ? Est-ce un ? est-ce deux ? S1 S2, telle est l’ un des mathèmes fondamentaux de Lacan Il est remarquable que le Yi King traite aussi de ces questions d’ une façon tout à fait semblable ; est-ce yang ? est-ce yin ? C'est-à-dire : est-ce un trait continu, unaire, ou est-ce deux, un trait discret, présentant une brisure ? Or, nous dit le Yi King, le trait continu et le trait brisé, ils sont deux certes, mais aussi ils sont un puisque chacun de ses manifestations peut s’ inverser en son contraire. C’ était bien la réponse, discordentielle, de Freud, et c’ est bien pourquoi Lacan a introduit la bande de Mœbius dans son enseignement.
 
-## 8QH pWKLTXH GX GpVLU "
+### 8QH pWKLTXH GX GpVLU "
 
 La fluidité trouverait-elle son incarnation dans le concept psychanalytique du désir ?
 
@@ -34,7 +34,7 @@ Si la différence, au niveau de la conception du désir, s’ éteint, pourrait-
 
 Cependant la psychanalyse insiste sur la différence entre parole et écriture, c'est-à-dire, chez Lacan entre le signifiant et la lettre. La vérité parle, le savoir écrit. La première est du côté de la fluidité et de l’ interprétation, la seconde du côté de la fixation et de formations de l’ inconscient. Il semble que la pensée chinoise fasse au contraire grand cas de l’ écriture, sans opérer cette différence fondamentale entre lettre et signifiant. A moins de choisir d’ interpréter, comme je le fais, les traits de l’ hexagramme comme les traits des figures topologiques : en termes d’ écriture théorique du signifiant.
 
-## 'X <L .LQJ j OD WRSRORJLH XQH pWKLTXH GH OD IOXLGLWp "
+### 'X <L .LQJ j OD WRSRORJLH XQH pWKLTXH GH OD IOXLGLWp "
 
 Examinons alors le problème de l’ éthique, auquel personne n’ échappe.
 
@@ -72,7 +72,7 @@ La fluidité du mouvement est alors représentée dans ce mouvement par lequel l
 
 ![](images/734cdbee624f5fed6f9f1e8f4784662124498bea0be4cfb5d11aa38422513eeb.jpg)
 
-## /HV GHX[ ERUGV GH OD SDUROH
+### /HV GHX[ ERUGV GH OD SDUROH
 
 « Dans la pensée chinoise, les contraires ne s’ excluent pas<sup>7</sup> ».
 
@@ -98,13 +98,13 @@ ou encore :
 
 C’ est au niveau de ce paradoxe d’ une surface qui est en même temps une coupure, que l’ extrême originaire de la pensée chinoise rejoint l’ extrême terminal de la pensée occidentale, représentée aussi bien par la psychanalyse que par les mathématiques telles qu’ elles articulent elles-mêmes leur propre infinitude à l’ énoncé du théorème de Gödel. La jonction de ces deux extrêmes pourrait à son tour bien représenter le paradoxe de la recherche de François Jullien : les deux bords de la pensée, l’ occidental et l’ oriental, d’ être au plus éloigné l’ un de l’ autre, finissent par se rejoindre.
 
-## /HV RSpUDWLRQV GX FKDQJHPHQW
+### /HV RSpUDWLRQV GX FKDQJHPHQW
 
 Chaque hexagramme n’ est que l’ image du résultat d’ un changement en l’ attente d’ un autre changement. La bande de Mœbius écrit ce passage dans sa zone jaune, ce pourquoi j’ y ai inscrit – mais c’ est un abus de langage – les 64 figures du changements. Le nœud borroméen détaille deux surface jaunes ayant la même fonction. Il faut en effet plutôt considérer les deux modes d’ écriture des passages, celui par une surface qui n’ est que bord en elle-même, la surface jaune, et celui par la surface qui se transforme en une autre surface. Ceci correspond à ce que nous dit François Jullien des deux modalités de passage d’ une figure à une autre :
 
 FXR, , inversion de chaque trait d’ une figure, de yang en yin ou de yin en yang. Cette opération est du côté de la métonymie.
 
-=RQJ,  double retournement, entre haut et bas de chaque trigramme, et entre les deux trigrammes du haut et du bas. Cette opération est de l’ ordre la métaphore.
+=RQJ, double retournement, entre haut et bas de chaque trigramme, et entre les deux trigrammes du haut et du bas. Cette opération est de l’ ordre la métaphore.
 
 En effet, François Jullien fait remarquer :
 
@@ -136,7 +136,7 @@ En fait il est vraisemblable qu’ il y ait beaucoup plus d’ opérations non-d
 
 C’ est là où le Yi King manque de précision pour devenir une topologie. Mais on peut en dire autant à Lacan lorsqu’ il a amené la topologie dans son enseignement. On peut lui en vouloir, par exemple, de ne pas avoir formalisé la différence entre l’ objet et l’ écriture de l’ objet, alors qu’ il insiste par ailleurs sur ce qu’ il appelle le réel de l’ écriture, ce qui entraîne pas mal de ses successeurs à prendre l’ objet pour seul objet d’ études, comme s’ il ne s’ agissait pas d’ une écriture implicite.
 
-## ,PPDQHQFH GX UpHO GH O¶pFULWXUH RX WUDQVFHQGDQFH G¶XQ 5pHO H[WpULHXU j O¶pFULWXUH "
+### ,PPDQHQFH GX UpHO GH O¶pFULWXUH RX WUDQVFHQGDQFH G¶XQ 5pHO H[WpULHXU j O¶pFULWXUH "
 
 Il y a cette sorte d’ ambiguïté dans le Yi King tel qu’ il nous est restitué par François Jullien : il s’ agit de l’ immanence du Réel nous explique-t-on. Alors il faut préciser : du réel de l’ écriture. Les sages chinois semblent laisser entendre qu’ il s’ agirait du réel comme tel. C’ est un réel comme tel en tant que l’ écriture engendre un certain nombre d’ impossibles, comme d’ écrire la troisième dimension. Qu’ on étende cette conception du réel à une transcendance à localiser dans ce qui est extérieur à l’ écriture, voilà qui reste à discuter.
 
@@ -164,7 +164,7 @@ La seuls différence entre psychanalyse et sagesse orientale, serait de l’ ord
 
 Considérons un peu plus loin les réels de l’ écriture… réels sans majuscule qui englobes les impossibles, tels que je l’ ai énoncé plus haut, mais aussi cette fois, les nécessaires, qu’ on pourrait dire encore : les impossibles de faire autrement.
 
-## /HV UpHOV GH O¶pFULWXUH
+### /HV UpHOV GH O¶pFULWXUH
 
 En occident (mais peut-être en orient aussi) même un illettré sait faire un croix. C’ est ce qu’ on demandait comme minimum à ces derniers, pour signer leur contrat d’ engagement dans l’ armée.
 
@@ -232,7 +232,7 @@ La question qui se pose serait celle du rapport de ces écritures avec celles qu
 
 & HVW GRQF ELHQ Oj R o DXUDLW pWp OH SOXV VLPSOH VL O RQ SHXW GLUH TXH O pFULWXUH QH VRLW TXH WUDQVFULSWLRQ GH FH TXL V pQRQFH HQ SDUROHV TX LO HVW IUDSSDQW GH YRLU TXH WRXW DX FRQWUDLUH O pFULWXUH ORLQ G rWUH WUDQVFULSWLRQ HVW XQ DXWUH V\VWqPH DXTXHO pYHQWXHOOHPHQW V DFFURFKH FH TXL HVW GpFRXSp GDQV XQ DXWUH VXSSRUW FHOXL GH OD YRL[
 
-## /¶REMHW D  XQH pFULWXUH GX IRQGV G¶LPPDQHQFH
+### /¶REMHW D  XQH pFULWXUH GX IRQGV G¶LPPDQHQFH
 
 « En quête d’orthodoxie, (Zhu Xi), la tradition néo confucéenne donnera un nom à cet insaisissable , qui est en même temps le plus quotidien,et le plus concret , et qu’ on ne cesse d’ avoir à « réaliser » : ce nom, on le connaît déjà, c’ est le « juste milieu »(de la régulation)<sup>13</sup>. »
 
@@ -252,7 +252,7 @@ Inobjectivable : les surfaces jaunes, écrivant théoriquement cet objet sans é
 
 Dont on a à réaliser l’ évidence : dont on a, en psychanalyse, à évider toute représentation qui le recouvre afin de réaliser la place du vide. Ce dont François Jullien s’ acquitte semble-t-il, dans cet énoncé.
 
-## 'H OD &KLQH j O¶RFFLGHQW O¶HQMHX GX GpEDW  G¶XQ DXWUH j O¶\$XWUH
+### 'H OD &KLQH j O¶RFFLGHQW O¶HQMHX GX GpEDW  G¶XQ DXWUH j O¶\$XWUH
 
 La nuit précédant notre colloque, j’ ai fait le rêve suivant :
 

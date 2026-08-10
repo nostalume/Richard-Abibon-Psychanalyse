@@ -1,8 +1,8 @@
 # Richard Abibon
 
-# Topologie du transfert 2
+## Topologie du transfert 2
 
-# Il n’est pas nécessaire de distinguer transfert et contre transfert
+## Il n’est pas nécessaire de distinguer transfert et contre transfert
 
 Daniel G : Le transfert est l'obtention entre deux bipèdes d'un affect dont la partie principale procède de l'inconscient et d'un archaïsme dont le Moi ne saurait avoir la moindre trace..le contre transfert serait plutôt la mise en surveillance par l'analyste de son propre émoi donc libido envers l'analysant et de ce mouvement du çà -là procède l'identification de ses propres résistances...Comme il est réputé analysé, l'analyste, ce contre transfert là ne va pas entrer dans l'inter relation à l'autre et donc va laisser le champ libre aux formations inconscientes de l'analysant, comme une table vide...
 

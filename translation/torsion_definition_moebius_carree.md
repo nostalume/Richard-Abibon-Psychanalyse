@@ -11,7 +11,7 @@ La construction qui va suivre de la bande de Moebius carrée vient à l’appui 
 
 (Ajout du lundi 3 décembre 2012)
 
-## Démonstration	  3 :	  travail	  manuel :	  construction	  de	  la	  bande	  de	  Mœbius	  carrée
+## Démonstration  3 :  travail  manuel :  construction  de  la  bande  de  Mœbius  carrée
 
 Raccourci qui signifie : construction de la bande de Mœbius à partir d’un carré. Vous avez remarqué que ce qui caractérise une bande, la bande la plus commune, celle qui nous sert à construire les bande de Mœbius, c’est l’inégalité de la mesure de ces bords. Nous partons habituellement d’un rectangle. Essayez d’effectuer les trois mouvements de torsion indiqués plus haut à partir d’un carré ! Vous constaterez que vous manquez sérieusement d’amplitude pour votre mouvement. Une métaphore du blocage névrotique dans un symptôme ? Pourquoi pas…certains, qui se veulent très carrés, en morale ou en métaphysique, en logique ou en mathématique, peuvent y faire penser.
 

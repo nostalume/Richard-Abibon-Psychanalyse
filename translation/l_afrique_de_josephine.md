@@ -594,7 +594,7 @@ Jouissance castration $\mathrm { s } ^ { \prime } \mathrm { y }$ lit : la struct
 
 De plus, ce n’est qu’une possibilitÇ d’interprÇtation du graphe. Je laisse á chacun la possibilitÇ d’y exercer sa sagacitÇ…
 
-## Revenons Ñ prÅsent Ñ la scÇne de la pratique analytique.
+## Revenons Ñ prÅsent Ñ la scÇne de la pratique analytique
 
 Je repose ma question fondamentale : qu'est-ce qui a produit l’Afrique de mon rÑve ? Sachant que je n’ai su qu’apràs coup qu’il s’agissait de l’Afrique de JosÇphine. Et je reviens á ma rÇponse premiàre, celle qui m’a permis de donner la premiàre interprÇtation de mon rÑve : le signifiant Ä jumelles Å, car c’est bien en le prononÜant que je me suis rendu compte que Üa n’avait rapport qu’aux jumelles dont JosÇphine m’avait parlÇ peu auparavant.
 

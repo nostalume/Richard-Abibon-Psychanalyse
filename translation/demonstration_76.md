@@ -1,10 +1,10 @@
 Richard Abibon
 
-# Démonstration 76 des trois torsions de la bande de Moebius A partir des raboutages de la bande à trois torsions initiales, et de celle à 4 torsions initiales.
+# Démonstration 76 des trois torsions de la bande de Moebius A partir des raboutages de la bande à trois torsions initiales, et de celle à 4 torsions initiales
 
 J’ai défini ce qu’est une torsion :
 
-https://unepsychanalyse.files.wordpress.com/2019/06/torsion\_definition\_moebius\_carree.pdf
+<https://unepsychanalyse.files.wordpress.com/2019/06/torsion>\_definition\_moebius\_carree.pdf
 
 ![](images/92f6bc8df7f79705bcf6ba66234aecac13c7f0e6b9fc2720f69937b78a443211.jpg)
 
@@ -95,7 +95,7 @@ C'est autre chose. C’est ce qu'on obtient lorsqu'on coupe la bande longitudina
 
 Quel que soit le nombre des torsions qu'on imprime à une bande, n, les torsions de sens contraire s'annulent toujours ... sauf à la base, quand on fait une bande de Moebius à "une" torsion, qui sont en fait trois. C'est ça l'intérêt unique de cette bande, car bien que de sens contraire, elles peuvent se substituer l'une à l'autre comme dans ma démonstration vidéo.
 
-https://www.youtube.com/watch?v=e\_bhuuzdMUw
+<https://www.youtube.com/watch?v=e>\_bhuuzdMUw
 
 ![](images/9bda2d9e8898b1f1644ee714e6f8363e6ff2f5cee232cc7a514cd244391f4b58.jpg)
 

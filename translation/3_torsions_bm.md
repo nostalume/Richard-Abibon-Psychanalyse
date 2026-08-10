@@ -4,7 +4,7 @@
 
 "Qu'on dise reste oublié derrière ce qui se dit dans ce qui s'entend" (Lacan, l'Etourdit). Je paraphrase : qu'il faille construire la BANDE DE MŒBIUS pour qu'on puisse la tenir en main est oublié par ceux qui en disent quelque chose, dans ce qui est "bien entendu" aussi bien dans le champ mathématique que dans le champ psychanalytique.
 
-## Pour introduire : un exemple clinique de l’utilité de l’outil topologique :
+## Pour introduire : un exemple clinique de l’utilité de l’outil topologique
 
 J’avais commencé par traiter cette question de manière purement topologique. Puis je me suis dis que, d’une part personne n’allait rien comprendre et que, d’autre part, il importe de ne pas se perdre dans des calculs mathématiques sans fin et surtout sans rapport avec notre préoccupation : rendre compte de la psychanalyse comme pratique. Sinon, à quoi servirait la théorie ?
 
@@ -112,7 +112,7 @@ De ces deux dimensions du plan de l’écriture, il peut, dès lors qu’il a sa
 
 Dans sa difficulté à dire ce dont il s’agit, Lacan nous tient un discours discordentiel : il dit d’un même jet insu : « Il y a une seule face de chaque côté : c'est une bande de Moebius qui a la propriété d'être bilatérale ». S’il voulait seulement nous dire qu’il n’y a qu’une seule face, il aurait dit « unilatérale ». Or il nous dit : « une seule face de chaque côté ». Visiblement il cherche un vocabulaire, et la suite de ses associations nous indique ce autour de quoi il tourne. C’est véritablement un moment où il est analysant, butant sur un Réel et tournant autour avec ce qui, de saisissable, lui vient à l’esprit. Et là, nous voyons les concepts de la psychanalyse venir au secours de la topologie ; mais les concepts tels que, lui, Jacques Lacan, les a introduits, maniés, triturés, la façon dont il s’est lui-même plongé dans la « pâte efficace » de la psychanalyse.
 
-## Il cherche, mais il ne trouve pas.
+## Il cherche, mais il ne trouve pas
 
 A mon sens, le fil qu’il cherche c’est celui-là du trèfle, qui est celui de la bande de Mœbius homogène telle qu’en effet, étant unilatère sur chacune de ses trois faces, perd sa consistance de tissu. Si une face est à la fois dessus et dessous, qu’est-elle ? C’est un bord : elle perd, de ce fait, sa matérialité de tissu. Elle n’est plus ce tissage, ou tricotage (pour faire un clin d’œil à René Lew) qui fait la navette entre un bord et l’autre, elle n’est plus que fil. Or, ici, dans la bande homo, toutes les faces sont à la fois dessus et dessous. Cette bande homo n’est plus que fil. Elle représente le passage sur le bord, le passage aux seules représentations de mots, un peu à la manière de l’interprétation analytique. Cette dernière n’est pourtant pas la même chose que la schizophrénie. La première se trouve représentée par le bord la bande hétéro, la seconde par le bord de la bande homo (voir plus loin « Une écriture de la psychose »).
 
@@ -278,9 +278,9 @@ Ecrivons sur notre papier (en l’occurrence, un écran d’ordinateur, alors, p
 Notons les dimensions qui en tissent sa surface, x et y. Notons par des lettres ses quatre coins. Leurs coordonnées respectives dans le repère xy écrit par la bande elle-même seront :
 
 <div class="mineru-algorithm" style="white-space: pre-wrap; font-family:monospace;">
-- O $\{\mathrm{x} = 0,\mathrm{y} = 0\}$   
-- A $\{\mathrm{x} = 0,\mathrm{y} = a\}$   
-- B $\{\mathrm{x} = b,\mathrm{y} = 0\}$   
+- O $\{\mathrm{x} = 0,\mathrm{y} = 0\}$
+- A $\{\mathrm{x} = 0,\mathrm{y} = a\}$
+- B $\{\mathrm{x} = b,\mathrm{y} = 0\}$
 - C $\{\mathrm{x} = b,\mathrm{y} = a\}$
 </div>
 
@@ -533,7 +533,7 @@ Entre ces deux faces, la face horizontale qui soutient les trajets de l’obsess
 ![](images/bc7cf2f25ad2c404078fb98357fa2543e4127655517d599244b5a80b8d1a263f.jpg)  
 On voit qu’il est très facile de passer de l’une à l’autre, en fonction des choix de trajets.
 
-## De la lettre au signifiant : une écriture de l’analyse.
+## De la lettre au signifiant : une écriture de l’analyse
 
 Finalement, cette dimension forclusive représente n’importe quel symptôme, ou manifestation de l’inconscient, lettre qui écrit ce qui ne peut se dire. Sans qu’il soit besoin de symptôme, d’inhibition, ou d’angoisse, un rêve, un lapsus, un acte manqué suffit parfois à écrire la contradiction, qu’elle se situe dans les plis, dans les faces, ou dans les deux, si le récit de cette formation de l’inconscient trouve un interlocuteur. Ça signifie : descendre là, sur cette face « dessous » qui est aussi « dessus » : « mettre les deux pieds dans le caniveau », comme le dit Jean-Michel Vappereau, empruntant à Wittgenstein.
 

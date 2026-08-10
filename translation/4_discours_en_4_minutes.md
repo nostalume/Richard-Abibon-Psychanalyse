@@ -263,7 +263,7 @@ On ne pourra pas non plus revenir sur ceci, que la coupure entre signifié et si
 
 Cette coupure se referme sur elle-même comme une coupure courbe, ou comme les trois coupures rectilignes qui ont façonné notre module de base. Elle présente le même processus à un degré de complexité plus élevé, un peu comme nos coupures rectilignes se développent sur le modèle d’une fractale.
 
-## Le discours dit « de l’universitaire ».
+## Le discours dit « de l’universitaire »
 
 Dans l’écriture des coupures rectilignes, même constat, ce qui est plutôt rassurant quant à la cohérence des écritures : elles se sont déjà toutes recoupées, il n’y a pas d’autre recoupe à attendre. Par contre une lecture dernière est encore à faire celle du S2 s’articulant avec a, dans le discours dit « de l’universitaire ».
 
@@ -380,7 +380,7 @@ Et le discours de l’analyste ? C’est celui qui se produit de ce dispositif, 
 
 D’avoir repéré dans la structure la place de la vérité comme celle du trou donne un certain éclairage à l’image de mon analysant dans le puit, accroché à une corde qui descend inexorablement. Dans le puit, il se sent tomber vers la vérité, et il se raccroche à la corde phallique du savoir. Dans les séances qui suivront il analysera comment en effet il fait beaucoup de théorie. Oh, pas de la théorie analytique, avec laquelle il n’entretient aucun rapport, mais une façon de parler universalisante. Il parle beaucoup et aime séduire les femmes, ou plutôt, les mettre en difficulté par ses remarques. Il s’agi de pousser le bouchon jusqu’à atteindre une espèce d’euphorie. Il repère ainsi que ce qu’il ne fait pas avec son phallus, il le fait avec sa bouche. Quand, face à son discours incessant et habile, une femme baisse les bras, il est content. C’est comme ça qu’il en jouit, d’une femme.
 
-## L’acte analytique : un renversement de point de vue. Une discussion avec Lacan.
+## L’acte analytique : un renversement de point de vue. Une discussion avec Lacan
 
 Le point de vue analytique part toujours d’un renversement de point de vue. Lacan en parle ainsi par exemple dans le début du séminaire sur « l’acte » (22/ 11/ 67) : il repère qu’un de ses contradicteurs, pourtant analyste, s’étonne de ce qu’il ait parlé, lui, Lacan d’un « malade », alors que, s’étonne ce contradicteur, Lacan s’appuie quand même d’habitude sur la structure du langage. Lacan, lisant cela, s’étonne aussi : « ce n’est pas ma manière, en effet », dit-il (de parler du « malade »). Cependant il s’interroge : après tout, ça a pu lui échapper, il feuillette ses « Ecrits » et trouve le passage en question. Le mot malade y est en effet, mais… dans une citation que fait Lacan d’un autre auteur, et c’est donc un propos d’Abraham. Voilà, dit Lacan ce qu’est un acte analytique, ce qu’il vient de faire pour le public du séminaire : bien resituer le sujet de l’énonciation. On ne va pas s’interroger sur les motifs de « l’erreur » du contradicteur de Lacan qui a pris ce mot dans les « Ecrits » et qui a cru, comme les « Ecrits » sont de Lacan, que ce propos était de Lacan. On ne va pas demander si cette erreur est due à sa névrose, à sa psychose ou à sa perversion.
 
@@ -406,7 +406,7 @@ L’avalanche de citations dans la citation ne facilite pas la tâche. Ça tombe
 
 Voilà ma façon de rendre compte de l’acte analytique de la façon dont Lacan luimême en donne la démonstration. Sa démonstration est magistrale, et dans sa vérité : son contradicteur s’est en effet trompé de sujet de l’énonciation, et dans son erreur : Lacan a bien dit « le malade » dans un autre passage des « Ecrits », comme on va le voir immédiatement ciaprès. Sans doute peut-on dire que, si la distorsion de lecture a joué pour son contradicteur, c’est la distorsion de la mémoire qui joue pour Lacan lui-même.
 
-## Il dit un peu plus loin, pour compléter son analyse du propos de ce contradicteur :
+## Il dit un peu plus loin, pour compléter son analyse du propos de ce contradicteur
 
 « Ne voila-t-il pas touché le fait qu'il est singulier qu'on soit reconnaissant, par cette erreur évidemment, sinon par la référence irrépressible à mon nom, même si on le met sous la rubrique de je ne sais quel achoppement incompréhensible de la part de quelqu'un qui parle du langage avant tout, comme il s'exprime, est-ce qu'il n'y a pas là quelque chose qui nous fait nous interroger? Sur quoi ? Sur ce qu'il en est de ceci qu'au regard d'une certaine analyse, d'un certain champ de l'analyse, qu'on ne puisse, même à s'appuyer expressément sur ce que j'avance, le faire qu'à condition de le renier, dirai-je ».
 

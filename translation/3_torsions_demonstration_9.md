@@ -1,6 +1,6 @@
 # Richard Abibon
 
-# 9<sup>EME</sup> DEMONSTRATION DES TROIS TORSIONS DE LA BANDE DE MŒBIUS
+## 9<sup>EME</sup> DEMONSTRATION DES TROIS TORSIONS DE LA BANDE DE MŒBIUS
 
 Les questionnements de Marie-Laure Caussanel m’ont poussé à écrire cette nouvelle démonstration : qu’elle en soit ici remerciée.
 
@@ -54,7 +54,7 @@ Ces traits sont la modalité topologique de la troisième dimension, à l’oppo
 ![](images/2fd6344f27e54eb6e60750ef2f1189b0f7fc032fa64e9b1efab55e683bab2d02.jpg)  
 Pour rabouter le dessus avec le dessous, il faut ajouter deux torsions. De ce fait, dans l’écriture, on est obligé de rajouter aussi deux traits, qui représentent ces torsions comme telle, lieu de passage du dessus au dessous, lieu où c’est la surface qui fait bord au vide.
 
-## La représentation canonique de la bande de Mœbius représente le refoulement
+### La représentation canonique de la bande de Mœbius représente le refoulement
 
 Cette représentation de la bande de Mœbius :
 
@@ -131,7 +131,7 @@ Si on s’en tient à une seule face, alors il faut écrire plutôt la bande de 
 
 Qu’on la lise par coupure ou torsion ou retournement, l’interprétation est toujours ce qui fait apparaître une autre face. L’intérêt ne réside cependant pas dans cette autre face comme telle, mais dans le mouvement dialectique ainsi amorcé. Celui-ci déplace l’attention de la surface vers le bord, toujours en mouvement entre une face et l’autre. C’est sans doute ce que veulent lire les tenants de l’écriture canonique de la bande de Mœbius. S’ils la lisent ainsi, je me retrouve d’accord avec eux. Mais il se trouve que, dans le réel de leur écriture, au lieu d’en rajouter sur la coupure, ils ont réellement rajouté une surface de dimension πl . C’est ce que fait le symptôme, ou tout autre formation de l’inconscient. Ce n’est peut-être pas la meilleure façon de mettre l’accent sur la coupure, surtout lorsqu’on ne s’aperçoit pas de ce rajout qui ressemble bien à ce qui se passe dans le refoulement : ce que je ne peux pas dire (par une torsion triple) je l’écris (par une surface : lapsus, rêve, acte manqué, symptôme).
 
-## La bande de Mœbius représente la coupure interprétative
+### La bande de Mœbius représente la coupure interprétative
 
 La représentation que je propose ne fait pas autre chose que donner la structure potentielle de la bande de Mœbius, lorsqu’on met en œuvre la coupure deux tours :
 
@@ -198,7 +198,7 @@ Tout cela est quand même d’importance si l’on songe que ce que Lacan nomme 
 
 Je renvoie donc à mes autres articles pour qu’on se rendre compte de la façon dont ces concepts fonctionnent au plus près de la clinique.
 
-## Annexe phénoménologique
+### Annexe phénoménologique
 
 ![](images/0bcd0bfe66f6113cd80ce641451dadcd361ae050d809219b6a3d6e49b7ed09f3.jpg)
 

@@ -57,7 +57,7 @@ Dans le second point de vue, le sujet se situe entre l’objet et le miroir. Il 
 
 Enfin dans le troisième point de vue, comme dans le troisième temps de la pulsion, le sujet se prend lui-même comme objet. C’est donc lui qu’il aperçoit dans le miroir, à condition qu’il ne prenne pas cette image pour un objet, c'est-à-dire un autre : il doit faire l’opération de s’identifier à cette image, et pour cela il doit se retourner, passer imaginairement derrière le miroir, position dans laquelle il opère un peu comme le bonhomme sur la bande de Mœbius : il se repère de façon intrinsèque : ma droite est bien toujours à ma droite et extrinsèque : d’ici où je suis, devant le miroir, si je m’identifie à l’image du miroir, alors je me retourne et de ce fait je peux apercevoir que ma droite est passée à ma gauche dans le repérage extrinsèque.
 
-Je laisserai ici de côté l’examen de la question du miroir horizontal. Pour ceux que ça intéresse on en retrouvera le développement dans mon livre « De l’autisme » (EFEditions@wanadoo.fr).
+Je laisserai ici de côté l’examen de la question du miroir horizontal. Pour ceux que ça intéresse on en retrouvera le développement dans mon livre « De l’autisme » (<EFEditions@wanadoo.fr>).
 
 Prenons alors l’écriture du bonhomme que nous avions obtenue par la boucle. Faisons lui subir le passage par la fonction torsion :
 

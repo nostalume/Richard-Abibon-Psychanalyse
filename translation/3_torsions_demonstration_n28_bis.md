@@ -12,9 +12,9 @@ ceci dit, non, les deux torsions autres ne sont pas invisibles. ce sont celles q
 
 De même, en réponse à tous ceux qui disent que les trois torsions ne sont qu'un artéfact de mise à plat, eh bien cette mise à plat est déjà un effet de la perception dans la considération d'une bande de Moebius non aplatie à la main. C'est le dessin qu'on pouvait voir sur la couverture de scilicet et sur la couverture du livre de Vappereau "étoffe". IL est d'ailleurs foutrement étonnant que les gens qui contemplent ces dessins depuis 40 ans continuent à ne pas voir les deux torsions supplémentaires qui y sont pourtant, reflétant exactement la réalité de l'objet. enfin je ne sais pas si tu as vu ma vidéo sur la démonstration 74,
 
-(https://www.youtube.com/watch?v=e\_bhuuzdMUw&t=3s) on peut faire circuler "LA" torsion , la dite seule torsion pour les aveugles de service, on peut la faire circuler de manière à ce qu'elle prenne la place de chacune des deux autres, montrant l'identité de nature et de fonction entre les trois torsions.
+(<https://www.youtube.com/watch?v=e>\_bhuuzdMUw&t=3s) on peut faire circuler "LA" torsion , la dite seule torsion pour les aveugles de service, on peut la faire circuler de manière à ce qu'elle prenne la place de chacune des deux autres, montrant l'identité de nature et de fonction entre les trois torsions.
 
-https://www.youtube.com/watch?v=e\_bhuuzdMUw&t=3s
+<https://www.youtube.com/watch?v=e>\_bhuuzdMUw&t=3s
 
 ![](images/a9bb236d53545d480e88f3cfb4e7b6d205f6adf15479a36f5ad6c46bf46eeee9.jpg)
 
@@ -22,7 +22,7 @@ Même dans cette photo ci-dessous, où l'on voit, comme dans un cylindre, les de
 
 J'entends bien que les gens disent : oui, mais globalement elle est partout. Oui, globalement les trois torsions sont partout, comme le prouve ma démonstration 74. On peut les faire circuler en tout point. Mais même dans cette manœuvre, à chaque instant elles ont une triple localisation distincte.
 
-Et puis, erreur supplémentaire des "gens" : celle de ne vouloir voir QUE le point de vue global. Or, nulle part il n'y a de point de vue global sans point de vue local. http://une-psychanalyse.com/3\_torsions\_demonstration\_12
+Et puis, erreur supplémentaire des "gens" : celle de ne vouloir voir QUE le point de vue global. Or, nulle part il n'y a de point de vue global sans point de vue local. <http://une-psychanalyse.com/3>\_torsions\_demonstration\_12
 
 un cylindre où l'on voit nettement les deux torsions dues à la phénoménologie du regard. On passe deux fois de la face grise à la face blanche. Bien entendu, ici, il s'agit seulement d'une artéfact phénoménologique. Un bonhomme circulant sur l'une des faces reste sur cette face, il ne passe pas à l'autre face. Mais notre regard, si. Et c'est ce qui nous fait voir qu'il y a deux faces, et donc, que nous sommes en présence d'un cylindre. s'il n'y avait que le point de vue intrinsèque ( ce que développe Vappereau dans son ouvrage "Etoffe : topologie des surfaces intrinsèques") ce bonhomme n'aurait aucun moyen de se rendre compte qu'il y a une autre face. Il pourrait tout aussi bien conclure qu'il est sur une bande de Moebius où, globalement, il n'y a qu'une face. Où l'on voit que c'est toujours l'articulation des deux points de vue qui nous permet une juste appréciation de la réalité. Cette articulation se fait par une troisième torsion virtuelle qui met en rapport une face et l'autre face, nous permettant de dire : ah, globalement, il y a deux faces qui ne sont pas en continuité, mais je les vois quand même en continuité grâce à la perspective, car je vois les deux torsions grâce à la troisième, virtuelle.
 

@@ -1,4 +1,4 @@
-# Schéma	  L	  et	  théorie	  de	  la	  communication
+# Schéma  L  et  théorie  de  la  communication
 
 Voici un extrait de mon livre Les Toiles des rêves, L’Harmattan 2009 :
 

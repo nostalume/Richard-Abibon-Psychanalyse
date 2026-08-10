@@ -10,7 +10,7 @@ Quoiqu’il en soit je me laisse orienter par cette conviction : une théorie de
 
 Dans sa lettre 52 à Fliess et dans le chapitre VII de « l’interprétation des rêves », Freud présente deux variantes d’un même schéma de l’appareil psychique (j’en ferai état au moment opportun). Dans les deux cas il suggère de faire se rejoindre les deux extrémités de ce dessin linéaire, et de les lire en boucle. Ainsi, on aura profit à lire ce texte deux fois, comme un huit intérieur ou une bande de Mœbius : une première fois sans trop chercher à comprendre, car même le récit du rêve et son analyse sont pétris de concepts qui ne seront présentés que dans la deuxième partie. La deuxième fois avec ces concepts en tête, qui n’auraient rien gagné à être présentés d’abord, puisqu’ils sont les produits de cette pratique.
 
-## Voici d’abord le récit du rêve :
+## Voici d’abord le récit du rêve
 
 J’arrive à Montbéliard par un chemin de sable en pente qui me permet de prendre de la vitesse sur mon vélo. Ça me permettra de rattraper les amis qui y arrivent aussi en faisant un détour par le bas, je les vois au pied de la falaise. Arrivé en haut de cette falaise, je longe son bord mais un tout petit peu en contre bas, comme s’il y avait une corniche à presque hauteur d’homme en dessous du sommet. Ma tête seule dépasse. Curieusement la falaise est faite de sable, comme la plage, et ce sable s’effrite ce qui rend le cheminement dangereux. J’arrive à un trou qui fait rejoindre le haut avec le bas, c'est-à-dire la plage, la mer. Je sais que ce trou est comme un trou dans la plage creusé pour jouer par des enfants et leur père. Au fond, je distingue en effet les pelles qui leur ont servi.
 
@@ -125,7 +125,7 @@ Parfois, le rêve ne suffit pas, et c’est un délire qui s’impose, selon les
 
 Ceci nous intéresse non seulement comme modèle possible pour la construction d’une représentation dans les cas où celle-ci ne s’impose pas d’évidence, mais encore pour questionner la fin de l’analyse c'est-à-dire la passe : moment où la suite des signifiants produits par le couple analysant–analyste pendant si longtemps trouve sa limite. La répétition cesse d’être l’ajout d’un signifiant à un autre signifiant, mais le constat de ce qu’il y a cette fois identification. De l’analysant à l’analyste ? Certainement pas ! Mais identification d’un signifiant commun produit par l’analyse et reconnu dans un dialogue par les deux protagonistes : non plus la suite comme telle, mais la solution de l’équation de sa limite. Cette identification a toutes les chances de se présenter, devant l’infinitude de la tâche comme l’invention d’un $i ^ { 2 } = - 1$ , qui va faire solution là où il n’y en a pas, là où l’analyse est reconnue comme devant être infinie, ce qui n’empêche pas la clôture de la cure.
 
-## Rêve :
+## Rêve
 
 Je suis en voiture avec un de mes analysants. Dans un virage, peut-être suis-je en train de doubler, il me dit d‘allumer les phares car il fait nuit ; j’avais oublié, mais je ne peux pas, je dois garder les deux mains sur le volant, et ça dure, ça dure…
 
@@ -532,7 +532,7 @@ Il serait donc plus judicieux de poser le signifiant dans une écriture topologi
 
 Comme pour le fort-da, chaque signifiant serait une coupure linéaire qui se parcourt deux fois, dans un sens, puis dans le sens contraire, ce sens contraire étant séparé du précédent par la recoupe que lui impose un autre signifiant. Ici le morceau enlevé sera l’interlocuteur du moi, un autre formaté aussi sur son image, un semblable. Comme dans le dialogue du maître et de l’hystérique, les positions peuvent s’échanger entre m et i(a). On voit clairement en quoi la fonction sujet diffère du moi : ce dernier est une surface, (2D) tandis que la fonction sujet, comme toute fonction est une coupure.
 
-Ainsi, ayant parcouru deux fois le monde extérieur, une première fois sur le mode du discours du maître (M) une seconde fois sur le mode du discours de l’hystérique (H), il ne reste plus qu’à tracer une quatrième coupure pour achever le trou du discours de l’analyste (A), qui a permis une écriture du fantasme (S ◊ a) qui ouvre du même coup à la Passe (c’est ainsi que je préfère lire le discours de l’universitaire, mais c’est un choix à la fin de l’analyse  : basculer dans le discours de l’universitaire –dans les écoles de psychanalyse ou à l’université - ou la passe). Cette écriture oblige à une modification de la nomination des coupures. Il semble plus logique de penser que le vecteur qui clôt le parcours des 4 discours en faisant monter le S2 en positon d’agent parcourt le trajet qui va de l’insu au savoir…
+Ainsi, ayant parcouru deux fois le monde extérieur, une première fois sur le mode du discours du maître (M) une seconde fois sur le mode du discours de l’hystérique (H), il ne reste plus qu’à tracer une quatrième coupure pour achever le trou du discours de l’analyste (A), qui a permis une écriture du fantasme (S ◊ a) qui ouvre du même coup à la Passe (c’est ainsi que je préfère lire le discours de l’universitaire, mais c’est un choix à la fin de l’analyse : basculer dans le discours de l’universitaire –dans les écoles de psychanalyse ou à l’université - ou la passe). Cette écriture oblige à une modification de la nomination des coupures. Il semble plus logique de penser que le vecteur qui clôt le parcours des 4 discours en faisant monter le S2 en positon d’agent parcourt le trajet qui va de l’insu au savoir…
 
 $$
 \begin{array}{c}\underline {{S 2}}\\S 1\end{array}\rightarrow\begin{array}{c}\underline {{a}}\\S\end{array}
@@ -557,9 +557,9 @@ S1-, je parle, passant du passif (j’écoute) à l’actif, car
 
 S, Ça (« Es ») met en route le transfert, c'est-à-dire l’amour, en tant qu’effet de la fonction sujet achevant la découpe d’un moi qui ressent les contours de lui-même, c'est-à-dire son image d’autant mieux s’il se sent aimé.
 
-il tombe de cette opération un reste, un plus-de-jouir, l’objet  a, comme surface ayant échappé à la découpe. Elle a été mise en jeu comme signifiant au discours de l’analyste, opérant la coupure entre ce qui peut s’en saisir, qui cesse de ce fait d’être objet a, sous le nom de fantasme, et ce qui reste insaisissable, continuant de fonctionner comme cause du désir.
+il tombe de cette opération un reste, un plus-de-jouir, l’objet a, comme surface ayant échappé à la découpe. Elle a été mise en jeu comme signifiant au discours de l’analyste, opérant la coupure entre ce qui peut s’en saisir, qui cesse de ce fait d’être objet a, sous le nom de fantasme, et ce qui reste insaisissable, continuant de fonctionner comme cause du désir.
 
-## Mon rêve fonctionne :
+## Mon rêve fonctionne
 
 en passant de l’amour à la haine, puis à l’amour : je suis au lit et je l’écoute, puis elle va sauter par la fenêtre (c'est-à-dire : je la fais passer par la fenêtre), et là, je l’en empêche.
 
@@ -636,6 +636,6 @@ L’encodage des dimensions x et y reste le même, avec les ambigüités déjà 
 
 L’insu $\mathrm { s } ^ { \prime } \mathrm { y }$ lit de ce qui reste soit dessous (rouge, refoulement proprement dit) soit désorienté (jaune, refoulement originaire) : c’est la fameuse troisième dimension dont nous avons obtenu une écriture par ce type de raboutage moyennant une torsion hétérogène. Elle est équivalente à la troisième torsion dont le signe s’oppose à celui des deux autres.
 
-Nous avons ouvert cette fois ci un espace à 4 dimensions, x, y, z, et la torsion qui peut être + ou -. Nous pouvons la noter  g comme l’équivalent de la gyrie dans l’écriture du nœud borroméen.
+Nous avons ouvert cette fois ci un espace à 4 dimensions, x, y, z, et la torsion qui peut être + ou -. Nous pouvons la noter g comme l’équivalent de la gyrie dans l’écriture du nœud borroméen.
 
 lundi 10 mars 2008

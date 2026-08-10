@@ -41,7 +41,7 @@ RA pourtant cette discontinuité, si on veut bien la lire, a toute son importanc
 
 Mon écriture est à lire dans la réalité de ce qu’elle écrit, évidemment pas dans ce qu’on infère de l’objet bande de Moebius. Mais lorsqu’on veut le lire en référence à l’objet bande de Moebius mis à plat, l’écriture est exacte aussi : effet d’écriture de l’objet pour le sujet qui le lit.
 
-## MLC : A la manière dessin standard :
+## MLC : A la manière dessin standard
 
 RA : Ce dessin n’est pas autre chose que le huit intérieur muni d’un trait supplémentaire (le trait pointillé est subsidiaire, on peut parfaitement s’en passer)
 
@@ -87,7 +87,7 @@ Intérêt pour la psychanalyse : nous avons une écriture mathématique du sché
 
 J’avais déjà décrit dans mon article initial les contradictions dans lesquelles s’enferrait Lacan en essayant de trouver les différences entre bande dite « à une torsion » et la bande dite « à trois torsions » (selon lui). C’est à lire ici :
 
-http://pagesperso-orange.fr/topologie/3\_torsions\_moebius.html
+<http://pagesperso-orange.fr/topologie/3>\_torsions\_moebius.html
 
 sous le titre :
 
@@ -105,7 +105,7 @@ Et donc la suite de la lecture du séminaire le montre, il ne sait pas quoi fair
 
 ![](images/74e22a7b20c350d1f0c4f6e5db987f77b016939b9e45325eea0abd20a6f8fb52.jpg)
 
-A la mathcurve (http://www.mathcurve.com/surfaces/mobius/mobius.shtml )
+A la mathcurve (<http://www.mathcurve.com/surfaces/mobius/mobius.shtml> )
 
 ![](images/3a5cabfdc624e29faa2c5f1f0c25bfee40349931e9c2fc8cc3fd08e8a2eafdf1.jpg)
 
@@ -145,7 +145,7 @@ RA ce qui fait de cet objet un objet inutile pour la psychanalyse, ou alors il f
 
 ==> l'aspect immergé de la bande serait à creuser à mon avis... plus tard... (x2)
 
-## A la Vappereau :
+## A la Vappereau
 
 ![](images/91610999198452a6785b6f641b7eb3f6b013e7c7b59c17f5be92fde11426275b.jpg)
 
