@@ -164,7 +164,6 @@ A Möbius strip, on the other hand, has only **one side** – you can draw a con
 
 When you cut a Möbius strip along its centre line, what you get is a **two-sided surface** – it now has two distinct sides. So Lacan's claim that "the cut itself is still a Möbius strip" is **factually wrong**.
 
-
 ### Section 2: Poincaré's Theorem
 
 > **Quote from the article**: "The edge indeed represents the cut of the surface, as a special case of Poincaré's theorem: 'what cuts a space of n dimensions is a space of dimensions n-1. The surface cuts the volume, the line cuts the surface, the point cuts the line.'"
@@ -187,7 +186,6 @@ So "the surface cuts the volume, the line cuts the surface, the point cuts the l
 
 The author uses this theorem to set up his central argument: **an edge is the cut of a surface, but an edge is not the surface itself**. A Möbius strip has an edge (1D), but it is itself a surface (2D). Reducing the strip to its edge would be like saying "a person is just their shadow" – it misses the substance.
 
-
 ### Section 3: The Paradox of Whole and Part – The Core Contradiction of the Möbius Strip
 
 > **Quote from the article**: "What constitutes the characteristic of the Möbius strip is not that it is 'the cut itself'... because, from that point of view, it loses its paradoxical quality: of having both a single edge (globally) and two edges (locally), both one side (globally) and two sides (locally)."
@@ -207,7 +205,6 @@ This contradiction is precisely what makes the Möbius strip so fascinating. You
 
 Abibon's criticism is: **Lacan only saw the "global" level** (one side, one edge, one cut), **and completely ignored the "local" level** (two sides, two edges, a surface with thickness). Reducing the Möbius strip to "the cut itself" is to **cancel its paradoxical nature** – and it is precisely that paradoxical nature that makes it useful as a metaphor for the subject.
 
-
 ### Section 4: What is a "Two-Sided Ring"?
 
 > **Quote from the article**: "The cut in the middle of the Möbius strip does not yield a Möbius strip, but a two-sided surface."
@@ -219,7 +216,6 @@ A "two-sided surface" is what was explained above – a surface with **two indep
 When you cut a Möbius strip along its centre line, the result is a **longer loop**. This new loop has **two twists** (360°), **but it is no longer a Möbius strip** – it has **two sides**. An ant walking on this new loop would have to cross an edge to get from the "front" to the "back". So it's called a "two-sided ring".
 
 This fact directly refutes Lacan's claim that "the cut itself is still a Möbius strip."
-
 
 ### Section 5: The Three-Twist Model – The Author's Own Solution
 
@@ -238,7 +234,6 @@ Why three? The author's logic is:
 - **Third twist**: the one in the opposite direction, representing the occurrence of the "cut" – it is this twist that allows "top" and "bottom" to be distinguished, thus allowing the "local" to exist.
 
 In the author's own words: "The three-twist writing writes the act of the cut as well as its product: two sides and a remainder." – **one side** (global), **two sides** (local), and **a remainder** (what falls off after the cut, i.e., the *objet a*).
-
 
 ### Section 6: Why is Lacan's "One-Twist" Diagram Wrong?
 
